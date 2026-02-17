@@ -1,5 +1,5 @@
 🚀 Live Demo:
-https://darling-sprinkles-6e1717.netlify.app/
+https://glittering-babka-a1c035.netlify.app/
 # 🍽️ Restaurant Website Project
 This is a responsive restaurant website built using HTML, CSS, and basic JavaScript. It showcases a modern food menu, a gallery, and contact information.
 
