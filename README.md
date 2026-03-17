@@ -17,3 +17,10 @@ This is a responsive restaurant website built using HTML, CSS, and basic JavaScr
 ### 🎯 Goal:
 Created this project to practice web layout design and CSS responsiveness as part of my Outreachy 2026 preparation journey.
 
+
+🛠️ How to Run
+1. Clone this repository.
+2. Open index.html in any web browser.
+3. Feel free to explore the code and share your feedback
+
+
